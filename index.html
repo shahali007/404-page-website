@@ -6,10 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>404 Not Found!</title>
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://github.com/shahali007/404-page-website/blob/master/libraries/fonts.css">
     <style>
         body{
-            font-family:"Helvetica Neue", Helvetica, Arial, SolaimanLipi ,sans-serif,SolaimanLipiNormal;
+            font-family:"Helvetica Neue", Helvetica, Arial, SolaimanLipi ,sans-serif;
         }
         .first-view{
             background: #f7f7f7;
@@ -67,7 +66,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-8 col-sm-offset-2 text-center">
-                <img src="https://github.com/shahali007/404-page-website/blob/master/libraries/error-404.png" alt="" style="max-width:100%;">
+                <img src="https://github.com/shahali007/404-page-website/blob/master/error-404.png" alt="" style="max-width:100%;">
                 <h1>কাঙ্খিত পেজটি খুঁজে পাওয়া যায়নি</h1>
                 <p>সম্ভবত আপনি ভুলভাবে অনুসন্ধান করছেন। অনুগ্রহ করে আপনার অনুসন্ধান বিষয়টি সম্বন্ধে নিশ্চিত হোন</p>
                 <a href="#" class="btn-home"> হোম পেজ </a>
